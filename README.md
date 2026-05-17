@@ -86,6 +86,3 @@ Football_Data_Analysis.ipynb
 
 ---
 
-## ⭐ Project Status
-
-✅ Completed and ready for internship/project submission.
